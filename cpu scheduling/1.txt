@@ -1,0 +1,5 @@
+3 // number of processes
+5 // time quantum for Round Robin 
+24 0 0 // burst time , arrival time ,proirity for process-0
+3 0 1 // burst time , arrival time ,proirity for process-2
+3 0 2 // burst time , arrival time ,proirity for process-3

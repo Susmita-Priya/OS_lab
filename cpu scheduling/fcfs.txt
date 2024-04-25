@@ -1,0 +1,12 @@
+Algorithm Name: FCFS 
+
+PID	Burst	Priority	Arrival	 Start	Finish	Wait	Response	Turnaround
+1	24	0		0	0	23	0	0		24
+2	3	1		0	24	26	24	24		27
+3	3	2		0	27	29	27	27		30
+
+-
+		MinTime	 MeanTime	 MaxTime	 StdTime
+Response : 	0	17.0		27	14.798648586948742
+Turnaround : 	24	27.0		30	3.0
+Waiting : 	0	17.0		27	14.798648586948742

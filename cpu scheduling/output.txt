@@ -1,0 +1,12 @@
+Algorithm Name: RRB 
+
+PID	Burst	Priority	Arrival	 Start	Finish	Wait	Response	Turnaround
+1	24	0		0	0	29	6	0		30
+2	3	1		0	5	7	5	5		8
+3	3	2		0	8	10	8	8		11
+
+-
+		MinTime	 MeanTime	 MaxTime	 StdTime
+Response : 	0	4.333333333333333		8	4.041451884327381
+Turnaround : 	8	16.333333333333332		11	11.930353445448853
+Waiting : 	5	6.333333333333333		8	1.5275252316519474
